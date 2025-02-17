@@ -9,6 +9,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=br0wnhammer&label=Profile%20views&color=0e75b6&style=flat" alt="br0wnhammer" /> </p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
