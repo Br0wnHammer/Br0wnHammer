@@ -26,11 +26,3 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Br0wnHammer/Br0wnHammer/output/snake.svg" alt="Snake animation" />
-
-###
