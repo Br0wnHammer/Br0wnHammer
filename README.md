@@ -2,10 +2,10 @@
 
 ###
 
-<p align="center">
-  <img height="150em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br0wnHammer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br0wnHammer&layout=compact&langs_count=4&theme=algolia"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Br0wnHammer&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br0wnHammer&theme=algolia&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+</div>
 
 ###
 
